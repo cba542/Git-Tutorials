@@ -25,7 +25,7 @@ git config --global user.email "twtrubiks@gmail.com"
 git config --global user.name
 git config --global user.email
 ```
-
+11
 ![alt tag](https://i.imgur.com/5mpS7Ij.jpg)
 
 Git 設定資料查看，可執行以下指令 ( 文章末會有較詳細的教學 )：
