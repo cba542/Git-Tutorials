@@ -7,7 +7,7 @@
 基本使用指令以及安裝可參考小弟之前拍的影片 [github基本教學 - 從無到有](https://www.youtube.com/watch?v=py3n6gF5Y00)
 
 影片教學包含如何產生 **SSH key**
-
+dddd
 如果步驟正確且沒出錯誤，可以在路徑下找到 **.ssh資料夾**，裡面有 **id_rsa** 以及 **id_rsa.pub** 兩個檔案，
 
 這兩個就是 SSH Key， **id_rsa是私鑰** ，不能洩露出去， **id_rsa.pub是公鑰** ，可以很放心的告訴任何人。
