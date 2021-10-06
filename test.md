@@ -83,7 +83,7 @@ git clone git@github.com:twtrubiks/test.git
 接著查看 log，`git log`
 
 ![alt tag](https://i.imgur.com/vJkFTr2.png)
-
+#新增註解2
 嘗試切換 branch `git checkout stable/2.2.x`
 
 ![alt tag](https://i.imgur.com/UtxJ2ER.png)
