@@ -13,7 +13,7 @@
 這兩個就是 SSH Key， **id_rsa是私鑰** ，不能洩露出去， **id_rsa.pub是公鑰** ，可以很放心的告訴任何人。
 
 安裝完 Git 之後，要做的第一件事情就是去設定自己的名字和信箱
-
+修改檔案1
 ```cmd
 git config --global user.name "twtrubiks"
 git config --global user.email "twtrubiks@gmail.com"
